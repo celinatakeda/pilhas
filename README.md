@@ -1,4 +1,7 @@
-# pilhas
+# Pilhas [LIFO: Last In, First Out]
  Implementação da classe Pilha
  
- Métodos: Top, Push e Pop.
+ Métodos: 
+ * Top. Retorna a referência.
+ * Push. Acrescenta um nó na pilha.
+ * Pop. Exclui um nó da pilha.
