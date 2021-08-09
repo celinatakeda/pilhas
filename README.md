@@ -2,6 +2,6 @@
  Implementação da classe Pilha
  
  Métodos: 
- * Top. Retorna a referência.
- * Push. Acrescenta um nó na pilha.
- * Pop. Exclui um nó da pilha.
+ * _**Top**_. Retorna a referência.
+ * _**Push**_. Acrescenta um nó na pilha.
+ * _**Pop**_. Exclui um nó da pilha.
