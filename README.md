@@ -4,4 +4,4 @@
  Métodos: 
  * _**Top()**_. Retorna a referência.
  * _**Push()**_. Acrescenta um nó na pilha.
- * _**Pop()**_. Exclui um nó da pilha.
+ * _**Pop()**_. Exclui um nó na pilha.
